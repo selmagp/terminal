@@ -57,7 +57,7 @@ Chaque commande déclenche une réponse personnalisée dans l'affichage du termi
 
 ## 🚀 Aperçu
 
-![aperçu du terminal](img/terminal.png) *(à remplacer par ta vraie capture si besoin)*
+![aperçu du terminal](img/terminal.png) 
 
 ---
 
